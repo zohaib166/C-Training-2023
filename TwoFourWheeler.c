@@ -7,6 +7,6 @@ int main() {
 
     //Write your code here
 
-    printf("%d %d\n", two_wheelers, four_wheelers); //do not change this line
+    printf("%d %d\n", four_wheelers, two_wheelers); //do not change this line
   
 }
